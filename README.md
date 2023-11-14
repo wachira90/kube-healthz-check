@@ -1,5 +1,5 @@
-# kube-healthz-check-
-kubernetes  healthz check code example
+# kube-healthz-check
+kubernetes path /healthz check service code example 
 
 ## golang
 
